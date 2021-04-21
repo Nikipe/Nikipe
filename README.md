@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nikipe
+- 💻 I'm working on some cool stuff ;)
+- 👀 I’m interested in Application Development
+- 🌱 I’m currently learning SwiftUI
+- 📫 Message me: niklas.palm@rwth-aachen.de
