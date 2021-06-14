@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikipe
+- 👋 Hi, I’m @Niklas
 - 💻 I'm working on some cool stuff ;)
 - 👀 I’m interested in Application Development
 - 🌱 I’m currently learning SwiftUI
