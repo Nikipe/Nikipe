@@ -1,7 +1,7 @@
 <h1 align="center">Hi✌🏻, I'm Niklas Josef Palm</h1>
 <h3 align="center">A computer science student at RWTH Aachen University</h3>
 
-- 🔭 I’m currently working on **summer semester assignmemts and exams**
+- 🔭 I’m currently working on **summer semester assignments and exams**
 
 - 🌱 I’m currently learning **SwiftUI**
 
