@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
+- 📝 I regularly write articles on [https://nikipe.github.io](https://nikipe.github.io)
+
 - 📫 How to reach me **niklas.palm@rwth-aachen.de**
 
 <h3 align="left">Connect with me:</h3>
