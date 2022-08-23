@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Niklas Josef Palm</h1>
+<h1 align="center">Hi ✌🏻, I'm Niklas Josef Palm</h1>
 <h3 align="center">A Swift developer and student at RWTH Aachen University</h3>
 
-- 🔭 I’m currently working on **university courses**
+- 📚 I am currently working towards my computer science degree
 
-- 🌱 I’m currently learning **SwiftUI, lua**
-
-- 📝 I regularly write articles on [https://niklasjpalm.com/posts/](https://niklasjpalm.com/posts/)
+- 📝 I regularly write articles on [my website](https://niklasjpalm.com/posts/)
 
 - 📫 How to reach me **niklas.palm@rwth-aachen.de**
 
